@@ -1,4 +1,5 @@
 # Pushparaj
+
 ### Full-Stack Developer
 
 ## Summary
@@ -38,58 +39,45 @@ With over one year of experience in web development, I have honed my skills in c
 - Took responsibility for website hosting and maintenance, ensuring smooth performance.
 - Managed databases and domain settings to optimize website operations.
 
-## Projects in Kairaa Techserve Pvt.Ltd
+# Projects in
 
-### Kairaa Academy [Kairaa Academy](https://www.kairaaacademy.com/)
+## Kairaa Techserve Pvt.Ltd
+
+### Kairaa Academy [LINK](https://www.kairaaacademy.com/)
 
 Kairaa Academy is an educational platform similar to Udemy, designed to provide a seamless learning experience for users. This comprehensive application is built using cutting-edge technologies and integrated with Razorpay for secure and convenient payments. The website encompasses distinct panels for administrators, instructors, and learners, each with their unique set of features.
 
 #### Key Features:
 
-- User Authentication and Course Purchasing:
-
-Users can create accounts and log in securely to access the platform.
-Learners can browse through a wide range of courses and purchase the ones that interest them.
+- User Authentication and Course Purchasing: Users can create accounts and log in securely to access the platform. Learners can browse through a wide range of courses and purchase the ones that interest them.
 Razorpay integration enables secure and smooth payment transactions.
 
-- Instructor Dashboard:
+- Instructor Dashboard: Instructors have dedicated dashboards for creating, managing, and updating their courses. The dashboard allows instructors to add course materials, videos, quizzes, and other resources.
 
-Instructors have dedicated dashboards for creating, managing, and updating their courses.
-The dashboard allows instructors to add course materials, videos, quizzes, and other resources.
-
-- Admin Panel:
-
-Administrators can oversee the entire platform and manage user accounts.
+- Admin Panel: Administrators can oversee the entire platform and manage user accounts.
 They have the ability to review and approve courses posted by instructors.
 
-- Coupons and Payments:
-
-Instructors can create and manage discount coupons for their courses.
+- Coupons and Payments: Instructors can create and manage discount coupons for their courses.
 Users can apply coupons during the checkout process to avail of discounts.
 
-- Learner Dashboard:
+- Learner Dashboard: Learners have personalized dashboards where they can view and manage the courses they've purchased. Course progress tracking helps learners keep track of their learning journey.
 
-Learners have personalized dashboards where they can view and manage the courses they've purchased.
-Course progress tracking helps learners keep track of their learning journey.
-
-- Store Website:
-
-The public-facing store website showcases available courses with detailed descriptions.
+- Store Website: The public-facing store website showcases available courses with detailed descriptions.
 Users can search and filter courses based on categories, instructor, or price.
 
-- Technology Stack:
+#### Technology Stack:
 
-Frontend: Bootstrap, Next.js, Redux Toolkit, Axios, Swr
-Backend: MongoDB for data storage.
-Payment Gateway: Razorpay for transactions.
+- Frontend: Bootstrap, Next.js, Redux Toolkit, Axios, Swr
+- Backend: MongoDB for data storage.
+- Payment Gateway: Razorpay for transactions.
 
 ### Other Notable Websites
 
-- Kairaa Techserve [Kairaa Techserve](https://kairaatechserve.com)
-- Nft Kairaa [Nft Kairaa](https://nftkairaa.com)
-- IIBT [IIBT](https://iibtcoin.com/iibt)
-- IIBT Crypto [IIBT Crypto](https://iibtcoin.com)
-- Infitta [Infitta](https://infitta.com)
+- Kairaa Techserve [LINK](https://kairaatechserve.com)
+- Nft Kairaa [LINK](https://nftkairaa.com)
+- IIBT [LINK](https://iibtcoin.com/iibt)
+- IIBT Crypto [LINK](https://iibtcoin.com)
+- Infitta [LINK](https://infitta.com)
 
 ## Certifications
 
@@ -98,11 +86,10 @@ Payment Gateway: Razorpay for transactions.
 ## Contact Information
 
 - Email: work.gpraj@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gpraj-developer)
-- Instagram: [Instagram Profile](https://www.instagram.com/gp_raj_dev)
+- LinkedIn: [LINK](https://www.linkedin.com/in/gpraj-developer)
+- Instagram: [LINK](https://www.instagram.com/gp_raj_dev)
 
 ## Additional Information
 
 - Languages: English (Fluent), [Other languages and proficiency levels]
 - Interests: [List any other interests or hobbies]
-
