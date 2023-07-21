@@ -1,4 +1,4 @@
-# Pushparaj
+# PUSHPARAJ
 
 ### Full-Stack Developer
 
@@ -39,7 +39,7 @@ With over one year of experience in web development, I have honed my skills in c
 - Took responsibility for website hosting and maintenance, ensuring smooth performance.
 - Managed databases and domain settings to optimize website operations.
 
-# Projects in
+## Projects
 
 ## Kairaa Techserve Pvt.Ltd
 
@@ -50,20 +50,20 @@ Kairaa Academy is an educational platform similar to Udemy, designed to provide 
 #### Key Features:
 
 - User Authentication and Course Purchasing: Users can create accounts and log in securely to access the platform. Learners can browse through a wide range of courses and purchase the ones that interest them.
-Razorpay integration enables secure and smooth payment transactions.
+  Razorpay integration enables secure and smooth payment transactions.
 
 - Instructor Dashboard: Instructors have dedicated dashboards for creating, managing, and updating their courses. The dashboard allows instructors to add course materials, videos, quizzes, and other resources.
 
 - Admin Panel: Administrators can oversee the entire platform and manage user accounts.
-They have the ability to review and approve courses posted by instructors.
+  They have the ability to review and approve courses posted by instructors.
 
 - Coupons and Payments: Instructors can create and manage discount coupons for their courses.
-Users can apply coupons during the checkout process to avail of discounts.
+  Users can apply coupons during the checkout process to avail of discounts.
 
 - Learner Dashboard: Learners have personalized dashboards where they can view and manage the courses they've purchased. Course progress tracking helps learners keep track of their learning journey.
 
 - Store Website: The public-facing store website showcases available courses with detailed descriptions.
-Users can search and filter courses based on categories, instructor, or price.
+  Users can search and filter courses based on categories, instructor, or price.
 
 #### Technology Stack:
 
@@ -79,6 +79,47 @@ Users can search and filter courses based on categories, instructor, or price.
 - IIBT Crypto [LINK](https://iibtcoin.com)
 - Infitta [LINK](https://infitta.com)
 
+## LIBS IT Services
+
+### Rathna Pharmacy
+
+The Rathna Pharmacy Web Application is a comprehensive office tool designed to manage dispatch details, employee records, and various aspects of warehouse stocks. It serves as an essential resource for streamlining operations and optimizing workflow. The application is divided into two phases to cater to different functionalities and ensure efficient data management.
+
+#### Data Entry and Management:
+
+- Dispatch Details: Capture and store essential dispatch information, including dispatch date, sender, recipient, delivery address, and tracking details. Track the status of dispatched items and manage delivery schedules.
+
+- Warehouse Stocks: Record and monitor inventory levels of pharmaceutical products in the warehouse.
+  Update stock quantities, manage stock movement, and track item availability.
+
+- Employee Details: Maintain a comprehensive database of employees, including personal information, attendance records, and contact details. Monitor employee attendance and track leaves.
+
+- Employee Attendance: Track and manage employee attendance, leaves, and absences.
+  Generate reports on attendance patterns and productivity.
+
+#### Reporting and Advanced Management:
+
+- Managing Reports: Generate printable reports based on dispatch details, warehouse stocks, and employee attendance. Customize report formats to suit specific requirements.
+
+- Stock and Employee Management: Efficiently manage and update all warehouse stocks and employee records.
+  Facilitate easy retrieval of information through advanced search and filter options.
+
+- Dispatch and Delivery Tracking: Enable real-time tracking of dispatched items and delivery status.
+  Provide notifications for successful deliveries or delays.
+
+#### Technology Stack:
+
+- Frontend: Bootstrap, jQuery, AJAX.
+- Backend: Core PHP for data processing and server-side logic.
+- Database: MySQL scalable data storage.
+
+### Other Websites
+
+- LIBS II Services (Profile Website)
+- Libstechgarage (Educational Website)
+- BlackHawk (Cybersecurity service Website)
+- Lead Integrated Business Services [LINK](https://leadintegratedservices.com)
+
 ## Certifications
 
 - Certificate in Web Development, Anudip Foundation, Chengalpattu. (Year-2021)
@@ -91,5 +132,4 @@ Users can search and filter courses based on categories, instructor, or price.
 
 ## Additional Information
 
-- Languages: English (Fluent), [Other languages and proficiency levels]
-- Interests: [List any other interests or hobbies]
+- Interests: Continuous learning, Build a portfolio to making personal projects, Read Books and Documentation
