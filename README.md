@@ -122,6 +122,7 @@ The Rathna Pharmacy Web Application is a comprehensive office tool designed to m
 
 ## Certifications
 
+- Roadmap to Become a Full-Stack Developer (Online), Scaler Academy. (Year - 2023)
 - Certificate in Web Development, Anudip Foundation, Chengalpattu. (Year-2021)
 
 ## Contact Information
