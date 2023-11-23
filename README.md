@@ -2,7 +2,7 @@
 
 ## Summary
 
-With over one year of experience in web development, I have honed my skills in creating dynamic and user-friendly websites. I worked with more than 15 websites.
+With two years of experience in web development, I have honed my skills in creating dynamic and user-friendly websites. I worked with more than 15 websites.
 
 ## Education
 
