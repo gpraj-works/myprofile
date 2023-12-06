@@ -1,5 +1,7 @@
 # PUSHPARAJ
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ## Summary
 
 With two years of experience in web development, I have honed my skills in creating dynamic and user-friendly websites. I worked with more than 15 websites.
@@ -19,7 +21,7 @@ With two years of experience in web development, I have honed my skills in creat
 
 ## Work Experience
 
-### Full Stack Developer, Kairaa Techserve Pvt.Ltd, Tambaram, (November 2022 - Till Now)
+### Full Stack Developer, Kairaa Techserve Pvt.Ltd, Tambaram, (November 2022 - December 2023)
 
 - Developed and maintained multiple websites for the organization, ensuring they met the desired functionalities and design standards.
 - Implemented new features and updates to enhance the websites' performance and user experience.
