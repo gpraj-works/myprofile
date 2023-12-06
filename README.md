@@ -1,7 +1,5 @@
 # PUSHPARAJ
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ## Summary
 
 With two years of experience in web development, I have honed my skills in creating dynamic and user-friendly websites. I worked with more than 15 websites.
