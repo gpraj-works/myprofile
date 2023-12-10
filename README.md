@@ -31,8 +31,6 @@ functionalities for improved data retrieval.
 
 ## Projects
 
-## Kairaa Techserve Pvt.Ltd
-
 ### Kairaa Academy [LINK](https://www.kairaaacademy.com/)
 
 ### E-Learning Platform:
