@@ -1,41 +1,41 @@
 # PUSHPARAJ
 
-## Summary
+Experienced web developer with 2 years in designing and developing websites and web applications. Proven track record of crafting efficient and user-friendly interfaces, optimizing web
+functionalities for improved data retrieval.
 
-With two years of experience in web development, I have honed my skills in creating dynamic and user-friendly websites. I worked with more than 15 websites.
+###
 
-## Education
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />(https://www.instagram.com/gp_raj_dev)
+</div>
 
-- Bachelor of Science in Computer Science, University of Madras, Uthiramerur, Kanchipuram. (Year - 2019)
+###
 
-## Technical Skills
+<h2 align="left">I code with</h2>
 
-- Programming Language: JavaScript
-- Web Technologies: HTML, CSS, React.js, Next.js, Express.js
-- Databases: MySQL, MongoDB
-- Version Control: Git
-- Tools: VS Code, Postman
-- Other: RESTful APIs, Bootstrap, TailwindCss
+###
 
-## Work Experience
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
 
-### Full Stack Developer, Kairaa Techserve Pvt.Ltd, Tambaram, (November 2022 - December 2023)
-
-- Developed and maintained multiple websites for the organization, ensuring they met the desired functionalities and design standards.
-- Implemented new features and updates to enhance the websites' performance and user experience.
-- Hosted and managed websites to ensure they remained accessible and responsive to users.
-- Oversaw and managed databases associated with the websites, ensuring data integrity and security.
-- Conducted regular maintenance and troubleshooting to address any issues and ensure smooth website operation.
-
-### Web Developer, LIBS IT Services, Chennai (March 2022 - November 2022)
-
-- Developed custom web applications to meet specific client requirements.
-- Proficient in both front-end and back-end development, ensuring comprehensive solutions.
-- Utilized agile methodologies to enhance project management and delivery efficiency.
-- Implemented CI/CD pipelines to automate the development, testing, and deployment processes.
-- Revamped existing websites, improving design and functionality to modern standards.
-- Took responsibility for website hosting and maintenance, ensuring smooth performance.
-- Managed databases and domain settings to optimize website operations.
+###
 
 ## Projects
 
@@ -43,31 +43,27 @@ With two years of experience in web development, I have honed my skills in creat
 
 ### Kairaa Academy [LINK](https://www.kairaaacademy.com/)
 
-Kairaa Academy is an educational platform similar to Udemy, designed to provide a seamless learning experience for users. This comprehensive application is built using cutting-edge technologies and integrated with Razorpay for secure and convenient payments. The website encompasses distinct panels for administrators, instructors, and learners, each with their unique set of features.
+### E-Learning Platform:
 
-#### Key Features:
+Developed a robust E-Learning Platform with a comprehensive set of features:
 
-- User Authentication and Course Purchasing: Users can create accounts and log in securely to access the platform. Learners can browse through a wide range of courses and purchase the ones that interest them.
-  Razorpay integration enables secure and smooth payment transactions.
+  - Course Management: Implemented functionalities for creating, deleting, and publishing courses, providing instructors with seamless control over their content.
+ 
+  - User Authentication System: Designed a secure user authentication system with options for user login, registration, and a forgot password mechanism, ensuring a smooth and protected user experience.
 
-- Instructor Dashboard: Instructors have dedicated dashboards for creating, managing, and updating their courses. The dashboard allows instructors to add course materials, videos, quizzes, and other resources.
+  - User Orders and Reports: Integrated an order tracking system and generated detailed reports, empowering administrators to gain insights into user activities and transaction history.
 
-- Admin Panel: Administrators can oversee the entire platform and manage user accounts.
-  They have the ability to review and approve courses posted by instructors.
-
-- Coupons and Payments: Instructors can create and manage discount coupons for their courses.
-  Users can apply coupons during the checkout process to avail of discounts.
-
-- Learner Dashboard: Learners have personalized dashboards where they can view and manage the courses they've purchased. Course progress tracking helps learners keep track of their learning journey.
-
-- Store Website: The public-facing store website showcases available courses with detailed descriptions.
-  Users can search and filter courses based on categories, instructor, or price.
-
-#### Technology Stack:
-
-- Frontend: Bootstrap, Next.js, Redux Toolkit, Axios, Swr
-- Backend: MongoDB for data storage.
-- Payment Gateway: Razorpay for transactions.
+  - Coupons Management: Implemented a flexible coupons management system, enabling the creation, modification, and application of coupons to enhance user engagement and loyalty.
+ 
+  - User Dashboard and Learning Interface: Developed a user-friendly dashboard offering a centralized hub for users to track progress, manage courses, and access personalized learning interfaces.
+ 
+  - Payment Gateway Integration: Integrated the Razorpay Payment Gateway for secure and efficient transaction processing, ensuring a seamless payment experience for users.
+ 
+  - Cutting-edge Technologies: Leveraged a modern tech stack, including Next.js for a dynamic and responsive front end, MongoDB for efficient data storage, Node.js and Express.js for robust server-side logic, and Tailwind CSS for a sleek and intuitive user interface.
+ 
+  - Advanced Libraries and Tools: Utilized essential tools and libraries such as Axios for API requests, SWR for efficient data fetching, Redux Toolkit for state management, and JWT for secure user authentication.
+    
+The E-Learning Platform offers an intuitive and feature-rich environment, catering to the needs of both course creators and learners, while maintaining a high level of security and usability throughout the platform.
 
 ### Other Notable Websites
 
@@ -77,39 +73,25 @@ Kairaa Academy is an educational platform similar to Udemy, designed to provide 
 - IIBT Crypto [LINK](https://iibtcoin.com)
 - Infitta [LINK](https://infitta.com)
 
-## LIBS IT Services
-
 ### Rathna Pharmacy
 
-The Rathna Pharmacy Web Application is a comprehensive office tool designed to manage dispatch details, employee records, and various aspects of warehouse stocks. It serves as an essential resource for streamlining operations and optimizing workflow. The application is divided into two phases to cater to different functionalities and ensure efficient data management.
+### Store Manager Application:
 
-#### Data Entry and Management:
+Developed a streamlined Store Manager Application with key features tailored for efficient operations:
 
-- Dispatch Details: Capture and store essential dispatch information, including dispatch date, sender, recipient, delivery address, and tracking details. Track the status of dispatched items and manage delivery schedules.
+ - Employee Management: Implemented a secure employee login system, providing personalized access for managing tasks and data within the application.
 
-- Warehouse Stocks: Record and monitor inventory levels of pharmaceutical products in the warehouse.
-  Update stock quantities, manage stock movement, and track item availability.
+ - Data Feeding Forms: Designed intuitive forms for efficient data input, ensuring a user-friendly experience for employees responsible for updating essential information.
 
-- Employee Details: Maintain a comprehensive database of employees, including personal information, attendance records, and contact details. Monitor employee attendance and track leaves.
+ - Admin Panel for Reports Management: Created a comprehensive admin panel allowing administrators to oversee and manage reports seamlessly, providing valuable insights into store operations.
 
-- Employee Attendance: Track and manage employee attendance, leaves, and absences.
-  Generate reports on attendance patterns and productivity.
+ - Export Functionality: Integrated a robust export feature within the admin panel, enabling the efficient extraction of data for further analysis and reporting.
 
-#### Reporting and Advanced Management:
+ - Technological Stack: Utilized PHP for server-side scripting, ensuring dynamic and responsive functionality. Employed MySQL for a reliable and scalable database management system, and jQuery with AJAX for enhanced interactivity and real-time data updates.
 
-- Managing Reports: Generate printable reports based on dispatch details, warehouse stocks, and employee attendance. Customize report formats to suit specific requirements.
+ - Bootstrap for Responsive Design: Implemented Bootstrap to achieve a responsive and mobile-friendly design, optimizing the application for various devices and screen sizes.
 
-- Stock and Employee Management: Efficiently manage and update all warehouse stocks and employee records.
-  Facilitate easy retrieval of information through advanced search and filter options.
-
-- Dispatch and Delivery Tracking: Enable real-time tracking of dispatched items and delivery status.
-  Provide notifications for successful deliveries or delays.
-
-#### Technology Stack:
-
-- Frontend: Bootstrap, jQuery, AJAX.
-- Backend: Core PHP for data processing and server-side logic.
-- Database: MySQL scalable data storage.
+The Store Manager Application offers a user-centric interface, empowering employees with efficient tools for data management, while providing administrators with a comprehensive reporting system to facilitate informed decision-making within the retail environment.
 
 ### Other Websites
 
@@ -119,6 +101,30 @@ The Rathna Pharmacy Web Application is a comprehensive office tool designed to m
 - Lead Integrated Business Services [LINK](https://leadintegratedservices.com)
 
 ## Own Projects
+
+### Strokes - Social Media Platform [LINK](https://stroke.vercel.app/)
+
+SociallyNow is an innovative social media platform that seamlessly integrates friend management, friend suggestions, post creation and deletion, as well as post interaction features such as liking and commenting. Engineered for an exceptional user experience, the platform leverages cutting-edge web technologies to ensure responsiveness and modern design.
+
+#### Key Features:
+
+- Friendship Management: Users can effortlessly manage their social connections through friend requests and suggestions, fostering a dynamic and engaging community.
+
+- Post Interaction: The platform enables users to create and delete posts, while also offering intuitive features for liking and commenting, enhancing user engagement.
+
+- Secure User Authentication: SociallyNow prioritizes user security with a robust authentication system, ensuring a safe and trustworthy environment.
+
+- Next.js 13: Built on the latest version of Next.js, the website benefits from enhanced performance, improved development experience, and Next.js's powerful features.
+
+#### Technology Stack:
+
+- Frontend: Developed using React for a highly responsive and dynamic user interface, providing an immersive and enjoyable user experience.
+
+- Backend: Leveraged Node.js and Express.js for powerful server-side logic, ensuring seamless data flow and interaction.
+
+- Database Management: Utilized MongoDB for efficient and scalable data storage, supporting the platform's dynamic content requirements.
+
+- Modern Styling: Tailwind CSS was employed for crafting a sleek and modern interface, contributing to the platform's aesthetic appeal and usability.
 
 ### Thenwhat - Search Engine Website [LINK](https://thenwhat.vercel.app/)
 
